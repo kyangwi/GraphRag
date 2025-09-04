@@ -1,0 +1,44 @@
+# Core LangChain dependencies
+langchain-core
+langchain-community
+langchain-experimental
+
+# Google AI integration
+langchain-google-genai
+
+# Vector store and database integrations
+langchain-astradb
+langchain-neo4j
+astrapy
+
+# Graph retrieval and processing
+graph-retriever
+
+# Document processing
+python-docx
+docx2txt
+
+# Core Python dependencies
+requests
+numpy
+pandas
+
+# Hashing and utilities
+
+
+# Optional: Enhanced logging and monitoring
+tqdm
+colorlog
+
+# Development and testing (optional)
+pytest
+pytest-cov
+black
+flake8
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# Note: Some dependencies may have specific version requirements
+# based on your Python version and system configuration 
